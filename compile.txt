@@ -1,0 +1,1 @@
+gcc -Wall -Wextra -pedantic -std=c11 scratch.c -lpthread
